@@ -1,3 +1,14 @@
+## UAS-Basprog
+##### Nama : Najwa Iffa Fadhila
+##### NIM :312210275
+##### Kelas : TI.22.A.2
+## DOKUMENTASI
+### PDF
+#### [KLIK DISINI](https://drive.google.com/file/d/1VeRA4pH7g0gPlIzBji4OF1CkWsJenlCh/view?usp=drivesdk)
+### YOUTUBE
+#### [KLIK DISINI]()
+
+
 # Tampilan Pada Halaman Website
 
 #### _Tampilan Login :_
@@ -56,8 +67,3 @@
 
 ![Screenshot 2024-01-04 112915](https://github.com/Aliyahasmarani/CT_8/assets/115197672/97e1ef07-cb35-4e59-a30e-79857d574713)
 
-
-
-# PDF
-
-https://docs.google.com/document/d/1iZsW00OKx9fuwTLXkOZdvqhrPq0LlkCI/edit?usp=drive_link&ouid=118198423336679910807&rtpof=true&sd=true
