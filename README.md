@@ -67,4 +67,4 @@ HAH
 
 # PDF
 
-[HIPOTESIS.docx](https://github.com/Aliyahasmarani/CT_8/files/13826821/HIPOTESIS.docx)
+https://docs.google.com/document/d/1iZsW00OKx9fuwTLXkOZdvqhrPq0LlkCI/edit?usp=drive_link&ouid=118198423336679910807&rtpof=true&sd=true
