@@ -48,11 +48,11 @@
 
 ![Screenshot 2024-01-04 112817](https://github.com/Aliyahasmarani/CT_8/assets/115197672/fe5b8507-36e5-4ec5-abba-b9a8a73cada8)
 
-#### _Tampilan Ubah Data Toilet :_
+#### _Tampilan Ubah Daftar Toilet :_
 
 ![Screenshot 2024-01-04 112847](https://github.com/Aliyahasmarani/CT_8/assets/115197672/30b57ddc-b04c-45ed-bd4b-bf25725c626a)
 
-#### _Tampilan Hapus Data Toilet :_
+#### _Tampilan Hapus Daftar Toilet :_
 
 ![Screenshot 2024-01-04 112915](https://github.com/Aliyahasmarani/CT_8/assets/115197672/97e1ef07-cb35-4e59-a30e-79857d574713)
 
