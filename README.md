@@ -8,14 +8,7 @@
 
 # DOKUMENTASI
 
-### PDF
-#### [KLIK DISINI](https://drive.google.com/file/d/1_dXz8uFysgzjKC3WRGCzcnrGWpXf_fmX/view?usp=drive_link)
 
-### YOUTUBE
-#### [KLIK DISINI]()
-
-### LINK DEMO
-#### [KLIK DISINI](https://ti22a2ctkel8.000webhostapp.com/)
 
 # Tampilan Pada Halaman Website
 
