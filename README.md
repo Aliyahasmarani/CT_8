@@ -8,8 +8,7 @@
 
 # DOKUMENTASI
 
-### PDF ![Icon_pdf_file svg](https://github.com/Aliyahasmarani/CT_8/assets/115884834/ff73476b-7301-4b91-b014-685c9f8072a0)
-
+### PDF
 #### [KLIK DISINI](https://drive.google.com/file/d/1_dXz8uFysgzjKC3WRGCzcnrGWpXf_fmX/view?usp=drive_link)
 
 ### YOUTUBE
