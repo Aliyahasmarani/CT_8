@@ -12,8 +12,7 @@
 #### [KLIK DISINI](https://drive.google.com/file/d/1_dXz8uFysgzjKC3WRGCzcnrGWpXf_fmX/view?usp=drive_link)
 
 ### YOUTUBE
-#### [KLIK DISINI](https://youtu.be/z39cpEj-pKM?feature=shared
-)
+#### [KLIK DISINI](https://youtu.be/z39cpEj-pKM?feature=shared)
 
 ### LINK DEMO
 #### [KLIK DISINI](https://ti22a2ctkel8.000webhostapp.com/)
